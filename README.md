@@ -1,5 +1,5 @@
 # CNN-Architectures
-Common Convolutional Neural Network Architectures
+
 
 '''
 Implementing a modified version of the classical Convolutional Neural Network (LeNet-5)
