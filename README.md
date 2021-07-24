@@ -4,7 +4,7 @@
 '''
 Implementing a modified version of the classical Convolutional Neural Network (LeNet-5)
 
-Proposed by Professor LeCun Yann LeCun
+Proposed by Professor Yann LeCun
     
 We need to modify the architecture (padding) when using it with built-in MNIST Dataset of Pytorch
     
