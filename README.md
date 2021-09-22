@@ -1,4 +1,4 @@
-# CNN-Architectures
+# LeNet5 
 
 
 '''
